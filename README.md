@@ -1,5 +1,5 @@
 # 📠pptx-
-一个用于抓取pptx中视频到windows桌面的工具
+一个用于抓取pptx中视频到windows桌面的工具-胡抓
 
 目前是我一个人开发，功能极其欠缺，只是为了学校一体机电脑上老师要copy视频的时候使用。
 
@@ -12,7 +12,7 @@
     4.✔️静默异常跳过
 
 ### 💻 技术实现
-    1.💽语言: Python
+    1. 💽语言: Python
     2. ✔️GUI框架: TKinter
     3. ✔️依赖库: python-pptx, filetype, pyinstaller
     4. ✔️临时文件清理机制
